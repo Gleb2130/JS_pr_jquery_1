@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    padding: 30px 10%;
+}
+header > h1 {
+    color: purple;
+}
+form {
+    border: 1px solid silver;
+    border-radius: 15px;
+    padding: 30px;
+    width: 450px;
+    margin: 30px auto;
+    box-shadow: 10px 10px 30px silver;
+}
+.my-form-group {
+    text-align: left;
+}
+.error {
+    color: red;
+}
+label {
+    color: darkcyan;
+    margin-bottom: 0px !important;
+}
+.my-btn {
+    width: 120px;
+    margin: 30px 2px 15px 2px;
+}
